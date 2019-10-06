@@ -1,0 +1,9 @@
+@import 'base/variables';
+@import 'base/grid';
+body {
+    background-color: $bg;
+    color: $green;
+}
+a {
+    transition: all 320ms ease;
+}
